@@ -1,5 +1,5 @@
 from tslearn.clustering import TimeSeriesKMeans
-import meanTimeSeries as util
+import utilityBackGround as util
 import numpy as np
 from sklearn.metrics import adjusted_rand_score,accuracy_score,adjusted_mutual_info_score
 
