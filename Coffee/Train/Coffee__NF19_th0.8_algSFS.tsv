@@ -1,0 +1,9 @@
+Threshold: 	0.8
+Algoritmo Usato:	 Greedy Modularity 
+Time Community Detection: 	3.0374560356140137
+Time Computation Matrix: 	5.519773721694946
+Feature 0: 	value__fft_coefficient__coeff_30__attr_"abs"
+Feature 1: 	value__cid_ce__normalize_False
+Feature 2: 	value__energy_ratio_by_chunks__num_segments_10__segment_focus_5
+Feature 3: 	value__fft_coefficient__coeff_2__attr_"angle"
+Feature 4: 	value__fft_coefficient__coeff_11__attr_"angle"
